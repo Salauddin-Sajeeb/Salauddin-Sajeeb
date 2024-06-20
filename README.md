@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salauddin Ahmed</h1>
 <h3 align="center">A passionate Junior Web Developer from Dhaka,Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddin-sajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-sajeeb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salauddin-sajeeb" alt="salauddin-sajeeb" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [salauddin-ahmed-profile.netlify.app](salauddin-ahmed-profile.netlify.app)
@@ -13,6 +7,12 @@
 - 📫 How to reach me **salauddin15-749@diu.edu.bd**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1objeb8UKQYRWRCwl5FhPIYF4qHCEJF-tyzya7gQLg7c](https://docs.google.com/document/d/1objeb8UKQYRWRCwl5FhPIYF4qHCEJF-tyzya7gQLg7c)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddin-sajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-sajeeb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salauddin-sajeeb" alt="salauddin-sajeeb" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
