@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **salauddin15-749@diu.edu.bd**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ADh-52leNRD8rrCJorWJyZVGNjVXGUmYCbN-mfHTolw)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ADh-52leNRD8rrCJorWJyZVGNjVXGUmYCbN-mfHTolw])
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salauddin-sajeeb" alt="salauddin-sajeeb" /></a> </p>
