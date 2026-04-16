@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salauddin Ahmed</h1>
-<h3 align="center">A passionate Junior Web Developer from Dhaka,Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Dhaka,Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddin-sajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-sajeeb" /> </p>
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently working with Next Js , node js , prisma , postgreSql and Saas projects
 
 - 👨‍💻 All of my projects are available at [dev-salauddin](http://dev-salauddin.vercel.app)
 
