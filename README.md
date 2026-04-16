@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salauddin-sajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="salauddin-sajeeb" /> </p>
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [salauddin-ahmed-profile.netlify.app](http://dev-salauddin.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](http://dev-salauddin.vercel.app)
 
 - 📫 How to reach me **salauddinahmed648@gmail.com**
 
